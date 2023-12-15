@@ -41,10 +41,7 @@ col1.metric("Average Daily Vistors", "74" , "28%")
 col2.metric("Active Users", "1,103" , "23%")
 col3.metric("User Satisfaction", "1.5x" , "4%")
 
-#Welcome_Url = "https://lottie.host/34e0e9b0-0690-49f9-a9ee-c9bc8348e6e1/ZxR1ZHHAZS.json"
-# lottie_welcome = load_lottieurl(Welcome_Url)
-# st_lottie(lottie_welcome,speed=2, reverse=False, loop=True, quality="medium", height=250, width=250,
-# key=None )
+
 
 Heart_Url = "https://lottie.host/7903bfb8-305c-44f9-9b43-2ba0de1897a6/UeNFDFWrkB.json"
 lottie_Heart = load_lottieurl(Heart_Url)
